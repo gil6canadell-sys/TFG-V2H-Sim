@@ -1,0 +1,28 @@
+﻿Habitatge;FV;Mobilitat;Carrega;Estalvi_Net_EUR;Estalvi_FV_VE_EUR;Estalvi_Unidir_EUR;Cost_Degradacio_EUR;Payback_Bidir_anys;Payback_Unidir_anys;Payback_Diferencial_anys;PB_Bidir_Deg_anys;PB_Difer_Deg_anys;Bidir_Rendible_8a;Unidir_Rendible_8a;Bidir_Deg_Rendible_8a;Recomanacio;Reco_amb_Degradacio
+PIS;No;Alta;Domestica;106,36;0;906,4;1,7;47,0;1,5;34,3;47,8;34,9;No;Si;No;Unidireccional;Unidireccional
+PIS;No;Alta;Feina;118,42;0;5,34;1,93;42,2;252,6;30,8;42,9;31,3;No;No;No;Unidir (bidir lent);Unidir (bidir lent)
+PIS;No;Alta;Publica;-1245,71;0;5,34;1,93;999;252,6;999;999;999;No;No;No;No rendible;No rendible
+PIS;No;Moderada;Domestica;108,84;0;732,57;1,77;45,9;1,8;33,5;46,7;34,1;No;Si;No;Unidireccional;Unidireccional
+PIS;No;Moderada;Feina;119,3;0;3,91;1,96;41,9;345,3;30,6;42,6;31,1;No;No;No;Unidir (bidir lent);Unidir (bidir lent)
+PIS;No;Moderada;Publica;-975,79;0;3,91;1,96;999;345,3;999;999;999;No;No;No;No rendible;No rendible
+PIS;No;Baixa;Domestica;112,87;0;511,97;1,86;44,3;2,6;32,3;45,0;32,9;No;Si;No;Unidireccional;Unidireccional
+PIS;No;Baixa;Feina;120,08;0;2,88;1,99;41,6;468,1;30,4;42,3;30,9;No;No;No;Unidir (bidir lent);Unidir (bidir lent)
+PIS;No;Baixa;Publica;-646,34;0;2,88;1,99;999;468,1;999;999;999;No;No;No;No rendible;No rendible
+CASA;Si;Alta;Domestica;587,16;11,13;1899,63;9,88;8,5;0,7;6,2;8,7;6,3;No;Si;No;Bidireccional;Bidireccional
+CASA;Si;Alta;Feina;743,65;10,83;657,4;12,75;6,7;2,1;4,9;6,8;5,0;Si;Si;Si;Bidireccional;Bidireccional
+CASA;Si;Alta;Publica;-1630,09;10,83;657,4;12,75;999;2,1;999;999;999;No;Si;No;Unidireccional;Unidireccional
+CASA;Si;Moderada;Domestica;609,49;15,5;1775,83;10,29;8,2;0,8;6,0;8,3;6,1;No;Si;No;Bidireccional;Bidireccional
+CASA;Si;Moderada;Feina;762,04;14,84;625,46;13,05;6,6;2,2;4,8;6,7;4,9;Si;Si;Si;Bidireccional;Bidireccional
+CASA;Si;Moderada;Publica;-1446,58;14,84;625,46;13,05;999;2,2;999;999;999;No;Si;No;Unidireccional;Unidireccional
+CASA;Si;Baixa;Domestica;622,16;19,23;1584,1;10,48;8,0;0,9;5,9;8,2;6,0;No;Si;No;Bidireccional;Bidireccional
+CASA;Si;Baixa;Feina;772,76;17,1;595,49;13,28;6,5;2,3;4,7;6,6;4,8;Si;Si;Si;Bidireccional;Bidireccional
+CASA;Si;Baixa;Publica;-1193,94;17,1;595,49;13,28;999;2,3;999;999;999;No;Si;No;Unidireccional;Unidireccional
+CASA;No;Alta;Domestica;588,52;0;1959,5;10,54;8,5;0,7;6,2;8,7;6,3;No;Si;No;Bidireccional;Bidireccional
+CASA;No;Alta;Feina;756,16;0;641,97;13,6;6,6;2,1;4,8;6,7;4,9;Si;Si;Si;Bidireccional;Bidireccional
+CASA;No;Alta;Publica;-1761,93;0;641,97;13,6;999;2,1;999;999;999;No;Si;No;Unidireccional;Unidireccional
+CASA;No;Moderada;Domestica;610,94;0;1848,95;11,09;8,2;0,7;6,0;8,3;6,1;No;Si;No;Bidireccional;Bidireccional
+CASA;No;Moderada;Feina;777,1;0;584,02;14,14;6,4;2,3;4,7;6,6;4,8;Si;Si;Si;Bidireccional;Bidireccional
+CASA;No;Moderada;Publica;-1651,2;0;584,02;14,14;999;2,3;999;999;999;No;Si;No;Unidireccional;Unidireccional
+CASA;No;Baixa;Domestica;630,1;0;1705,1;11,71;7,9;0,8;5,8;8,1;5,9;Si;Si;No;Bidireccional;Bidireccional
+CASA;No;Baixa;Feina;793,03;0;580,7;14,72;6,3;2,3;4,6;6,4;4,7;Si;Si;Si;Bidireccional;Bidireccional
+CASA;No;Baixa;Publica;-1413,44;0;580,7;14,72;999;2,3;999;999;999;No;Si;No;Unidireccional;Unidireccional
